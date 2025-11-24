@@ -1,6 +1,6 @@
-<img width="1140" height="500" alt="image" src="https://github.com/user-attachments/assets/974c16f8-91df-4f4e-8ad4-a3b6f9da7aae" /><h1 align="center">Hlo 👋, I'm Sathish Kumar </h1>
+<h1 align="center">Hlo 👋, I'm Sathish Kumar </h1>
 <h3 align="center"> AI Full Stack Developer </h3>
-<img width="1184" height="864" alt="Firefly_Gemini Flash_A developer working on a high-tech computer setup, multiple monitors showing Python c 18338" src="https://github.com/user-attachments/assets/79bc69f0-37d6-48fc-9e82-662d1a14af70" />
+<img width="1140" height="500" alt="image" src="https://github.com/user-attachments/assets/974c16f8-91df-4f4e-8ad4-a3b6f9da7aae" />
 
 
 ## 👤 About Me
