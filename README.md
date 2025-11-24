@@ -7,7 +7,7 @@
 - 🎓 **B.TECH Artificial Intelligence & Data Science (2023–2027)**  
   Velammal Engineering College, Chennai — CGPA: **7.96**
 
-- 👩‍💻 Passionate **AI Full Stack Developer ** with hands-on experience in  
+- 👩‍💻 Passionate **AI Full Stack Developer** with hands-on experience in  
   - React  
   - Angular
   - Java Script 
