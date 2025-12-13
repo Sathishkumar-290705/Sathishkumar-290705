@@ -1,6 +1,6 @@
 <h1 align="center">Hlo 👋, I'm Sathish Kumar </h1>
 <h3 align="center"> AI Full Stack Developer </h3>
-<img width="1140" height="500" alt="image" src="https://github.com/user-attachments/assets/974c16f8-91df-4f4e-8ad4-a3b6f9da7aae" />
+<!-- <img width="1140" height="500" alt="image" src="https://github.com/user-attachments/assets/974c16f8-91df-4f4e-8ad4-a3b6f9da7aae" /> -->
 
 
 ## 👤 About Me
