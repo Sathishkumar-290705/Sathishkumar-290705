@@ -21,7 +21,6 @@
 
 - 📫 Reach me at **sathishkumar290705@gmail.com**
 
-## 🛠️ Technical Skills
-  ![banner](https://github.com/user-attachments/assets/e3e897de-fa5c-430e-88db-67950eb61b3f)
+
 
 
