@@ -5,7 +5,7 @@
 
 ## 👤 About Me
 - 🎓 **B.TECH Artificial Intelligence & Data Science (2023–2027)**  
-  Velammal Engineering College, Chennai — CGPA: **7.96**
+  Velammal Engineering College, Chennai — CGPA:**7.96**
 
 - 👩‍💻 Aspiring in Machine Learning Engineering and  Passionate in **Full Stack Development** with hands-on experience in  
   - React  
@@ -15,6 +15,7 @@
   - Express 
   - Node
   - Flask
+  - Djongo
   - Python
   - Machine Learning
   - Natural Language Processing
