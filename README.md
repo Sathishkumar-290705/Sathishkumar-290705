@@ -16,7 +16,7 @@
     |&nbsp&nbspPython&nbsp&nbsp|&nbsp&nbspJava&nbsp&nbsp|&nbsp&nbspJavaScript&nbsp&nbsp|&nbsp&nbspTypeScript&nbsp&nbsp|&nbsp&nbspReact&nbsp&nbsp|&nbsp&nbspNode&nbsp&nbsp|  
   </h3>
   <h3>
-    |&nbsp&nbspExpress&nbsp&nbsp|&nbsp&nbspAngular&nbsp&nbsp|&nbsp&nbspMySQLl&nbsp&nbsp|&nbsp&nbspMongo DB&nbsp&nbsp|
+    |&nbsp&nbspExpress&nbsp&nbsp|&nbsp&nbspAngular&nbsp&nbsp|&nbsp&nbspMySQL&nbsp&nbsp|&nbsp&nbspMongo DB&nbsp&nbsp|
   </h3>
 </div>
 
