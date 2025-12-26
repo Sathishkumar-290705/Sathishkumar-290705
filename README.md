@@ -1,5 +1,5 @@
 <h1 align="center">It's Sathish Kumar  <h3> Machine Learning Developer | Full Stack Developer </h3> </h1>
-<div width="auto" height="1rem" />
+<div width="auto" height="1rem" color="white" />
 <br/>
 - 🎓 **B.TECH Artificial Intelligence & Data Science (2023–2027)**  
 <br/>
