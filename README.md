@@ -6,7 +6,9 @@
 - 🎓  B.TECH Artificial Intelligence & Data Science (2023–2027) in Velammal Engineering , Chennai <br/>
 - 🌱  Experience in Web Development , Machine Learning <br/>
 - 🧠  I am passinate about building scalable and intuitive web applications and solving real-world problems using AI <br/>
-- 📫 Reach me at sathishkumar290705@gmail.com <br/>
+- 📬 Reach me at <a href="mailto:sathishkumar290705@gmail.com" style="color:blue;">sathishkumar290705@gmail.com</a>
+
+ <br/>
 - 🔓 Open to work <br/>
 - 📍 Chennai ,TamilNadu ,India.
 
