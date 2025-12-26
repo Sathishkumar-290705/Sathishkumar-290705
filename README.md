@@ -13,10 +13,10 @@
 <h1></h1>
 <div align="center">
   <h3>
-    |&nbspPython&nbsp|&nbspJava&nbsp|&nbspJavaScript&nbsp|&nbspTypeScript&nbsp|&nbspReact&nbsp|&nbspNode&nbsp|  
+    |&nbsp&nbspPython&nbsp&nbsp|&nbsp&nbspJava&nbsp&nbsp|&nbsp&nbspJavaScript&nbsp&nbsp|&nbsp&nbspTypeScript&nbsp&nbsp|&nbsp&nbspReact&nbsp&nbsp|&nbsp&nbspNode&nbsp&nbsp|  
   </h3>
   <h3>
-    |&nbspExpress&nbsp|&nbspAngular&nbsp|&nbspMYSql&nbsp|&nbspMongo DB&nbsp|
+    |&nbsp&nbspExpress&nbsp&nbsp|&nbsp&nbspAngular&nbsp&nbsp|&nbsp&nbspMySQLl&nbsp&nbsp|&nbsp&nbspMongo DB&nbsp&nbsp|
   </h3>
 </div>
 
