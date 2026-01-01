@@ -5,7 +5,7 @@
 - 🚀  Interest in Machine Learning & Web Development <br/>
 - 🎓  B.Tech in Artificial Intelligence & Data Science (2023–2027) in Velammal Engineering College, Chennai <br/>
 - 🌱  Experience in Web Development & AI Model Development <br/>
-- 🧠  I am passionate about building scalable and intuitive web applications and solving real-world problems using AI<br/>
+- 🧠  I am passionate about leveraging AI to solve real-world problems and creating scalable, intuitive web applications.<br/>
 - 📬 Reach me at <a href="mailto:sathishkumar290705@gmail.com" style="color:blue;">sathishkumar290705@gmail.com</a><br/>
 - 🔓 Open to work <br/>
 - 📍 Chennai, TamilNadu, India.
