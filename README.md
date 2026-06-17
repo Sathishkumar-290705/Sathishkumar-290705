@@ -13,7 +13,7 @@
 <h1></h1>
 <div align="center">
   <h3>
-    |&nbsp;&nbsp;Python&nbsp;&nbsp;|&nbsp;&nbsp;Java&nbsp;&nbsp;|&nbsp;&nbsp;JavaScript&nbsp;&nbsp;|&nbsp;&nbsp;TypeScript&nbsp;&nbsp;|&nbsp;&nbsp;React&nbsp;&nbsp;|&nbsp;&nbsp;Angular&nbsp;&nbsp;|  
+    |&nbsp;&nbsp;Python&nbsp;&nbsp;|&nbsp;&nbsp;Java&nbsp;&nbsp;|&nbsp;&nbsp;JavaScript&nbsp;&nbsp;&nbsp;&nbsp;React&nbsp;&nbsp;|&nbsp;&nbsp;FastAPI&nbsp;&nbsp;|  
   </h3>
   <h3>
     |&nbsp;&nbsp;Express&nbsp;&nbsp;|&nbsp;&nbsp;Node.js&nbsp;&nbsp;|&nbsp;&nbsp;MySQL&nbsp;&nbsp;|&nbsp;&nbsp;MongoDB&nbsp;&nbsp;|
