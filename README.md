@@ -1,5 +1,5 @@
 
-<h3 align="center"> <strong> Machine Learning | Java </strong></h3>
+<h3 align="center"> <strong> MACHINE LEARNING | JAVA </strong></h3>
 <!-- <h3 align="center"> I am passinate about building scalable and intuitive web applications and solving real-world problems using <strong> AI </strong> </h3> -->
 <h1> </h1>
 - 🚀  Interest in Machine Learning & Web Development <br/>
